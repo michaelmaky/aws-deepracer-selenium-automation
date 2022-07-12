@@ -22,4 +22,4 @@ modelname
 
 # Run
 
-app.py
+python app.py
